@@ -1,6 +1,6 @@
-# 🌐 Sena X ActualHub V2
-
 ![Loader Animation](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycWk0bWJwMjYwZXMyM3oyNjRrNjN4NDAzb3piamRkY2ZyMnFnNW5pNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
+# 🌐 Sena X ActualHub V2
 
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![Roblox](https://img.shields.io/badge/Game-Roblox-blue)

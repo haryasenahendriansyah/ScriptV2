@@ -29,6 +29,16 @@
 
 ---
 
+## 🎮 Game yang Didukung
+
+- **Mount Daun** – ON  
+- **Mount Yagataw** – ON  
+- **Mount Sibuatan** – ON (Delay 1 menit setelah summit)  
+
+> Pastikan game yang dimainkan termasuk dalam daftar ini agar script berjalan optimal.
+
+---
+
 ## 💡 Tips & Trik
 
 - Gunakan **Anti Fall Damage** saat berada di area tinggi untuk mencegah kerusakan akibat jatuh.  

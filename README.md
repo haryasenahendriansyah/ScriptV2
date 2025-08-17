@@ -7,9 +7,9 @@
 ## 🔗 Tautan Developer
 | Platform   | Tautan                                           |
 |------------|-------------------------------------------------|
-| GitHub     | [haryasenahendriansyah](https://github.com/haryasenahendriansyah) |
-| Instagram  | [haryaseriansyah](https://instagram.com/haryaseriansyah) |
-| Discord    | [Sena Community](https://discord.gg/AtbU3EWjwy) |
+| GitHub     | [KLIK DISINI](https://github.com/haryasenahendriansyah) |
+| Instagram  | [KLIK DISINI](https://instagram.com/haryaseriansyah) |
+| Discord    | [KLIK DISINI](https://discord.gg/AtbU3EWjwy) |
 
 **Sena X ActualHub** adalah GUI Roblox serbaguna yang menyediakan proteksi pemain dan kontrol script dengan mudah. GUI ini dirancang untuk pengalaman bermain lebih aman dan nyaman, lengkap dengan loader script dan proteksi real-time.
 

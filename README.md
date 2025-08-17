@@ -1,75 +1,49 @@
-# Sena X ActualHub
+# 🌐 Sena X ActualHub
 
-Sena X ActualHub adalah GUI Roblox yang menyediakan berbagai fitur proteksi dan loader script untuk beberapa game tertentu. Script ini dibuat agar pemain bisa lebih aman dan nyaman saat bermain, termasuk mencegah jatuh, AFK, atau disconnect.
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Roblox](https://img.shields.io/badge/Game-Roblox-blue)
+![License](https://img.shields.io/badge/License-Non--Commercial-orange)
+
+## 🔗 Tautan Developer
+| Platform   | Tautan                                           |
+|------------|-------------------------------------------------|
+| GitHub     | [haryasenahendriansyah](https://github.com/haryasenahendriansyah) |
+| Instagram  | [haryaseriansyah](https://instagram.com/haryaseriansyah) |
+| Discord    | [Sena Community](https://discord.gg/AtbU3EWjwy) |
+
+**Sena X ActualHub** adalah GUI Roblox serbaguna yang menyediakan proteksi pemain dan kontrol script dengan mudah. GUI ini dirancang untuk pengalaman bermain lebih aman dan nyaman, lengkap dengan loader script dan proteksi real-time.
 
 ---
 
 ## 🛠️ Fitur Utama
 
-### Developer Info
-- Dibuat oleh **Sena X ActualHub**
-- Supported Games:
-  - Mount Daun 🟢
-  - Mount Yagataw 🟢
-  - Mount Sibuatan 🟢
-- Link:
-  - 🌐 [GitHub](https://github.com/haryasenahendriansyah)
-  - 📷 [Instagram](https://instagram.com/haryaseriansyah)
-  - 💬 [Discord](https://discord.gg/AtbU3EWjwy)
+### 👨‍💻 Developer Info
+- Info pembuat script dan daftar game yang didukung.  
+- Link otomatis disalin ke clipboard dengan notifikasi popup.
 
----
+### 🗻 Main Script Loader
+- **▶️ Jalankan Script (Gunung)**: Memulai script.  
+- **⛔ STOP Script**: Menghentikan script sepenuhnya.  
+- Status loader real-time:
+  - `Script belum dijalankan`  
+  - `Memuat Script...`  
+  - `Script Aktif ✅`  
+  - `Gagal Load ❌`  
 
-### Main Tab
-- **Jalankan Script (Gunung)**: Memulai script utama untuk game Mount DYS
-- **STOP Script**: Menghentikan script secara total
-- Status loader menampilkan:
-  - Script belum dijalankan
-  - Memuat Script...
-  - Script Aktif ✅
-  - Gagal Load ❌
-
----
-
-### Proteksi
+### 🛡️ Proteksi Pemain
 #### Anti Fall Damage
-- Aktifkan / Matikan Anti Fall Damage
-- Mencegah karakter jatuh dan kehilangan health
+- Mencegah jatuh dan kehilangan HP.  
+- Aktif / nonaktif dengan tombol.  
+- Status real-time: **Aktif ✅** / **Mati ❌**  
 
 #### Anti-AFK & Anti-Disconnect
-- Aktifkan / Matikan Anti-AFK
-- Mencegah kick otomatis karena AFK
-- Menggunakan VirtualUser untuk bypass deteksi idle
-- Loop kecil mencegah disconnect dengan menggerakkan karakter sedikit
+- Bypass kick otomatis karena AFK.  
+- Simulasi aktivitas menggunakan `VirtualUser`.  
+- Status real-time: **Aktif ✅** / **Mati ❌**  
 
 ---
 
-## 📋 Cara Penggunaan
-1. Jalankan script di Roblox
-2. ```lua
+## 🚀 Cara Menggunakan
+1. Salin script berikut ke executor Roblox kamu:
+   ```lua
    loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV2/refs/heads/main/SenaXActualHubV2"))()
-3. Pilih tab sesuai kebutuhan:
-   - **Developer Info**: Info developer dan link terkait
-   - **Mount DYS**: Jalankan script utama
-   - **Proteksi**: Aktifkan Anti-Fall dan Anti-AFK
-4. Gunakan tombol **STOP** untuk mematikan fitur kapan saja
-5. Notifikasi GUI akan muncul saat fitur diaktifkan atau dimatikan
-
----
-
-## ⚠️ Catatan
-- Pastikan koneksi internet aktif saat menggunakan loader script
-- Gunakan script hanya pada game yang didukung
-- Anti-Fall dan Anti-AFK hanya aktif saat karakter ada di server
-
----
-
-## 📌 Lisensi
-- Script ini dibuat untuk penggunaan pribadi di Roblox
-- Dilarang memperjualbelikan ulang tanpa izin
-
----
-
-## 🖇️ Link Terkait
-- GitHub: [https://github.com/haryasenahendriansyah](https://github.com/haryasenahendriansyah)
-- Instagram: [https://instagram.com/haryaseriansyah](https://instagram.com/haryaseriansyah)
-- Discord: [https://discord.gg/AtbU3EWjwy](https://discord.gg/AtbU3EWjwy)

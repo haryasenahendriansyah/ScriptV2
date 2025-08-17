@@ -1,52 +1,53 @@
-![Loader Animation](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycWk0bWJwMjYwZXMyM3oyNjRrNjN4NDAzb3piamRkY2ZyMnFnNW5pNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+# Sena X ActualHub
+By Sena Community
 
-# 🌐 Sena X ActualHub V2
+Sena X ActualHub adalah hub serbaguna untuk Roblox yang menyediakan berbagai fitur penting untuk gameplay, pengembangan, dan kenyamanan pemain. Script ini menggunakan Rayfield UI untuk antarmuka yang mudah digunakan.
 
-![Status](https://img.shields.io/badge/Status-Active-green)
-![Roblox](https://img.shields.io/badge/Game-Roblox-blue)
-![License](https://img.shields.io/badge/License-Non--Commercial-orange)
+---------------------------------------
+🎮 Supported Games
+- Mount Daun ON
+- Mount Yagataw ON
+- Mount Sibuatan ON (DELAY 1 MENIT SETELAH SUMMIT)
 
-## 🔗 Tautan Developer
-| Platform   | Tautan                                           |
-|------------|-------------------------------------------------|
-| GitHub     | [KLIK DISINI](https://github.com/haryasenahendriansyah) |
-| Instagram  | [KLIK DISINI](https://instagram.com/haryaseriansyah) |
-| Discord    | [KLIK DISINI](https://discord.gg/AtbU3EWjwy) |
+---------------------------------------
+💻 Developer Info
 
-**Sena X ActualHub** adalah GUI Roblox serbaguna yang menyediakan proteksi pemain dan kontrol script dengan mudah. GUI ini dirancang untuk pengalaman bermain lebih aman dan nyaman, lengkap dengan loader script dan proteksi real-time.
+🔗 Developer Links
+- GitHub: https://github.com/haryasenahendriansyah
+- Instagram: https://instagram.com/haryaseriansyah
+- Discord: https://discord.gg/AtbU3EWjwy
+- Discord Partner: https://discord.gg/WVfnGu9GMM
 
----
+---------------------------------------
+📋 Fitur Utama Menu
 
-## 🛠️ Fitur Utama
+1. 🔄 Restart Script Utama
+   Memuat ulang script utama langsung dari server GitHub.
 
-### 👨‍💻 Developer Info
-- Info pembuat script dan daftar game yang didukung.  
-- Link otomatis disalin ke clipboard dengan notifikasi popup.
-- MAP SUPPORT (MT DAUN | MT YAGATAW | MT SIBUATAN)
+2. 🛡️ Anti Fall Damage
+   Mencegah karakter menerima damage saat jatuh.
 
-### 🗻 Main Script Loader
-- **▶️ Jalankan Script (Gunung)**: Memulai script.  
-- **⛔ STOP Script**: Menghentikan script sepenuhnya.  
-- Status loader real-time:
-  - `Script belum dijalankan`  
-  - `Memuat Script...`  
-  - `Script Aktif ✅`  
-  - `Gagal Load ❌`  
+3. 🕹️ Anti-AFK & Anti-Disconnect
+   Menghindari kick dari server karena AFK, menjaga karakter tetap aktif.
 
-### 🛡️ Proteksi Pemain
-#### Anti Fall Damage
-- Mencegah jatuh dan kehilangan HP.  
-- Aktif / nonaktif dengan tombol.  
-- Status real-time: **Aktif ✅** / **Mati ❌**  
+---------------------------------------
+⚡ Load Script Otomatis
 
-#### Anti-AFK & Anti-Disconnect
-- Bypass kick otomatis karena AFK.  
-- Simulasi aktivitas menggunakan `VirtualUser`.  
-- Status real-time: **Aktif ✅** / **Mati ❌**  
+Script utama akan otomatis dimuat saat GUI siap. Tidak perlu menekan tombol apapun.
 
----
+---------------------------------------
+📥 Cara Menggunakan
 
-## 🚀 Cara Menggunakan
-1. Salin script berikut ke executor Roblox kamu:
-   ```lua
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV2/refs/heads/main/SenaXActualHubV2"))()
+1. Salin loadstring berikut ke Roblox Executor favoritmu:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV2/refs/heads/main/SenaXActualHubV2"))()
+
+2. Jalankan script. GUI Sena X ActualHub akan muncul otomatis.
+3. Pilih fitur yang diinginkan di Menu Tab atau lihat info developer di Developer Info Tab.
+
+---------------------------------------
+📝 Catatan Penting
+
+- Pastikan koneksi internet stabil agar loadstring dapat diambil dengan benar.
+- Gunakan fitur Anti-AFK hanya saat aman; beberapa game mungkin mendeteksi pergerakan otomatis.
+- Restart script bisa digunakan untuk memperbarui script utama tanpa menutup GUI.

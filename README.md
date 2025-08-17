@@ -1,62 +1,51 @@
-╔══════════════════════════════════╗
-║      🎮 Sena X ActualHub 🎮      ║
-║         By Sena Community       ║
-╚══════════════════════════════════╝
+# 🌐 Sena X ActualHub – Interactive GUI Hub for Roblox
 
-Sena X ActualHub adalah script untuk Roblox dengan fitur-fitur canggih untuk gameplay, anti-AFK, dan kenyamanan pemain. GUI menggunakan Rayfield UI untuk tampilan modern & mudah digunakan.
+![Sena X ActualHub Banner](https://i.imgur.com/placeholder.png)
+> Hub Roblox multifungsi, elegan, dan serba otomatis, oleh **Sena Community**.
 
-────────────────────────────
-🌟 Supported Games
-────────────────────────────
-• Mount Daun ON
-• Mount Yagataw ON
-• Mount Sibuatan ON (DELAY 1 MENIT SETELAH SUMMIT)
+---
 
-────────────────────────────
-💻 Developer Info
-────────────────────────────
-🔗 Developer Links:
-• GitHub           : https://github.com/haryasenahendriansyah
-• Instagram        : https://instagram.com/haryaseriansyah
-• Discord          : https://discord.gg/AtbU3EWjwy
-• Discord Partner  : https://discord.gg/WVfnGu9GMM
+## 🚀 Fitur Utama
 
-> Semua link bisa langsung di-copy & digunakan.
+| Fitur | Deskripsi | Preview |
+|-------|-----------|---------|
+| 💻 Developer Info | Menampilkan tautan GitHub, Instagram, Discord, dan Discord Partner. | ![Developer Info GIF](https://i.imgur.com/placeholderDevInfo.gif) |
+| 🎮 Supported Games | Mendukung Mount Daun, Mount Yagataw, dan Mount Sibuatan (dengan delay 1 menit setelah summit). | ![Supported Games GIF](https://i.imgur.com/placeholderGames.gif) |
+| 🔄 Restart Script Utama | Tombol untuk me-restart script utama tanpa menutup game. | ![Restart Script GIF](https://i.imgur.com/placeholderRestart.gif) |
+| 🛡️ Anti Fall Damage | Toggle untuk melindungi karakter dari kerusakan akibat jatuh. | ![Anti Fall Damage GIF](https://i.imgur.com/placeholderAntiFall.gif) |
+| 🕹️ Anti-AFK & Anti-Disconnect | Fitur untuk mencegah karakter dari status AFK dan disconnect otomatis. | ![Anti AFK GIF](https://i.imgur.com/placeholderAntiAFK.gif) |
+| ⚡ Auto Load Script | Script utama otomatis dijalankan setelah GUI siap. | ![Auto Load GIF](https://i.imgur.com/placeholderAutoLoad.gif) |
 
-────────────────────────────
-📋 Fitur Utama Menu
-────────────────────────────
-1️⃣ 🔄 Restart Script Utama
-   Memuat ulang script utama langsung dari server GitHub.
+---
 
-2️⃣ 🛡️ Anti Fall Damage
-   Mencegah karakter menerima damage saat jatuh.
+## 🔗 Tautan Developer
 
-3️⃣ 🕹️ Anti-AFK & Anti-Disconnect
-   Menghindari kick karena AFK, menjaga karakter tetap aktif.
+[![GitHub](https://img.shields.io/badge/GitHub-🌐-black?style=for-the-badge)](https://github.com/haryasenahendriansyah)  
+[![Instagram](https://img.shields.io/badge/Instagram-📷-E1306C?style=for-the-badge&logo=instagram)](https://instagram.com/haryaseriansyah)  
+[![Discord](https://img.shields.io/badge/Discord-💬-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/AtbU3EWjwy)  
+[![Discord Partner](https://img.shields.io/badge/DiscordPartner-🤝-5865F2?style=for-the-badge)](https://discord.gg/WVfnGu9GMM)
 
-────────────────────────────
-⚡ Load Script Otomatis
-────────────────────────────
-Script utama akan otomatis dimuat saat GUI siap. Tidak perlu menekan tombol apapun.
+> Klik tombol di GUI untuk otomatis menyalin tautan ke clipboard.
 
-────────────────────────────
-📥 Cara Menggunakan
-────────────────────────────
-1. Salin loadstring berikut ke Roblox Executor favoritmu:
-``
-loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV2/refs/heads/main/SenaXActualHubV2"))() ``
+---
 
-2. Jalankan script. GUI **Sena X ActualHub** akan muncul otomatis.
-3. Pilih fitur yang diinginkan di **Menu Tab** atau lihat info developer di **Developer Info Tab**.
+## 💡 Tips & Trik
 
-────────────────────────────
-📝 Catatan Penting
-────────────────────────────
-• Pastikan koneksi internet stabil agar loadstring berhasil.
-• Gunakan Anti-AFK dengan bijak; beberapa game dapat mendeteksi gerakan otomatis.
-• Restart Script dapat digunakan untuk memperbarui script utama tanpa menutup GUI.
+- Gunakan **Anti Fall Damage** saat berada di area tinggi untuk mencegah kerusakan akibat jatuh.  
+- Aktifkan **Anti-AFK & Anti-Disconnect** untuk sesi permainan panjang agar tidak terputus.  
+- Gunakan **Restart Script Utama** jika terjadi error atau ingin memuat ulang script.
 
-────────────────────────────
-✨ Have fun & code smart! ✨
-────────────────────────────
+---
+
+## ⚡ Kelebihan GUI Interaktif
+
+- **Visualisasi Langsung**: Semua fitur ditampilkan dalam GIF interaktif untuk pengalaman visual yang menarik.  
+- **Kemudahan Penggunaan**: Antarmuka pengguna yang bersih dan mudah dinavigasi.  
+- **Fitur Lengkap**: Menyediakan berbagai fitur untuk meningkatkan pengalaman bermain Roblox.
+
+---
+
+## 🎯 Catatan Penting
+
+- Pastikan game yang dimainkan termasuk dalam daftar **Supported Games**.  
+- Gunakan fitur dengan bijak untuk meningkatkan pengalaman bermain tanpa melanggar ketentuan Roblox.

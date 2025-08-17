@@ -1,4 +1,4 @@
-# 🌐 Sena X ActualHub
+# 🌐 Sena X ActualHub V2
 
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![Roblox](https://img.shields.io/badge/Game-Roblox-blue)

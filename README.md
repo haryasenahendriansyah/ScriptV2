@@ -20,7 +20,7 @@
 ### 👨‍💻 Developer Info
 - Info pembuat script dan daftar game yang didukung.  
 - Link otomatis disalin ke clipboard dengan notifikasi popup.
-- MAP (MT DAUN DAN MT YAGATAW)
+- MAP SUPPORT (MT DAUN DAN MT YAGATAW)
 
 ### 🗻 Main Script Loader
 - **▶️ Jalankan Script (Gunung)**: Memulai script.  

@@ -1,6 +1,6 @@
 # 🌐 Sena X ActualHub – Interactive GUI Hub for Roblox
 
-![Sena X ActualHub Banner](https://i.imgur.com/placeholder.png)
+![Sena X ActualHub Banner](https://media.tenor.com/h4PqcTyMsL4AAAAM/cover3.gif)
 > Hub Roblox multifungsi, elegan, dan serba otomatis, oleh **Sena Community**.
 
 ---

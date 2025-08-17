@@ -1,4 +1,4 @@
-# 🌐 Sena X ActualHub – Interactive GUI Hub for Roblox
+# 🌐 Sena X ActualHub – SIMPLE FEATURES
 
 ![Sena X ActualHub Banner](https://media.tenor.com/h4PqcTyMsL4AAAAM/cover3.gif)
 > Script Roblox multifungsi, elegan, dan serba otomatis, oleh **Sena Community**.
@@ -14,7 +14,7 @@
 | 🔄 Restart Script Utama | Tombol untuk me-restart script utama tanpa menutup game. | ![Restart Script GIF](https://cdn.pixabay.com/animation/2023/03/08/09/53/09-53-16-104_512.gif) |
 | 🛡️ Anti Fall Damage | Toggle untuk melindungi karakter dari kerusakan akibat jatuh. | ![Anti Fall Damage GIF](https://i.pinimg.com/originals/cb/84/03/cb84031baedae22d914f12f145ebceca.gif) |
 | 🕹️ Anti-AFK & Anti-Disconnect | Fitur untuk mencegah karakter dari status AFK dan disconnect otomatis. | ![Anti AFK GIF](https://media.tenor.com/FkYHKkiriQUAAAAM/afkjourney-odie.gif) |
-| ⚡ Auto Load Script | Script utama otomatis dijalankan setelah GUI siap. | ![Auto Load GIF](https://i.imgur.com/placeholderAutoLoad.gif) |
+| ⚡ Auto Load Script | Script utama otomatis dijalankan setelah GUI siap. | ![Auto Load GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7u1YrfWXN9vMu1jbjy9XP5E1SUvrkIg8nUw&s) |
 
 ---
 

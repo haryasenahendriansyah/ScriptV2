@@ -22,7 +22,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-🌐-black?style=for-the-badge)](https://github.com/haryasenahendriansyah)  
 [![Instagram](https://img.shields.io/badge/Instagram-📷-E1306C?style=for-the-badge&logo=instagram)](https://instagram.com/haryaseriansyah)  
-[![Discord](https://img.shields.io/badge/Discord-💬-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/AtbU3EWjwy)  
+[![Discord](https://img.shields.io/badge/Discord-💬-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/RYdwsEVkFs)  
 [![Discord Partner](https://img.shields.io/badge/DiscordPartner-🤝-5865F2?style=for-the-badge)](https://discord.gg/WVfnGu9GMM)
 
 > Klik tombol di GUI untuk otomatis menyalin tautan ke clipboard.

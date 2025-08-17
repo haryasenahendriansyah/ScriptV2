@@ -44,7 +44,8 @@ Sena X ActualHub adalah GUI Roblox yang menyediakan berbagai fitur proteksi dan 
 ---
 
 ## 📋 Cara Penggunaan
-1. Jalankan script **Sena X ActualHub** di Roblox
+1. Jalankan script ```lua
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV2/refs/heads/main/SenaXActualHubV2"))() di Roblox
 2. Pilih tab sesuai kebutuhan:
    - **Developer Info**: Info developer dan link terkait
    - **Mount DYS**: Jalankan script utama

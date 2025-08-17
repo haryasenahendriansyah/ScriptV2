@@ -10,7 +10,7 @@
 | Fitur | Deskripsi | Preview |
 |-------|-----------|---------|
 | 💻 Developer Info | Menampilkan tautan GitHub, Instagram, Discord, dan Discord Partner. | ![Developer Info GIF](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzRjYWVxamJqd3IzNGpibm53ejhpbWtvMzFqOHl3ZDR2Y21vOXY2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EoH4Wpu8suiNTLpI6j/giphy.gif) |
-| 🎮 Supported Games | Mendukung Mount Daun, Mount Yagataw, dan Mount Sibuatan (dengan delay 1 menit setelah summit). | ![Supported Games GIF](https://i.imgur.com/placeholderGames.gif) |
+| 🎮 Supported Games | Mendukung Mount Daun, Mount Yagataw, dan Mount Sibuatan (dengan delay 1 menit setelah summit). | ![Supported Games GIF](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3Y5ZnppN3I3MTB6MWtjanFxZHJuMTdubTk1dHlwNWIxYTUwNXdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif) |
 | 🔄 Restart Script Utama | Tombol untuk me-restart script utama tanpa menutup game. | ![Restart Script GIF](https://i.imgur.com/placeholderRestart.gif) |
 | 🛡️ Anti Fall Damage | Toggle untuk melindungi karakter dari kerusakan akibat jatuh. | ![Anti Fall Damage GIF](https://i.imgur.com/placeholderAntiFall.gif) |
 | 🕹️ Anti-AFK & Anti-Disconnect | Fitur untuk mencegah karakter dari status AFK dan disconnect otomatis. | ![Anti AFK GIF](https://i.imgur.com/placeholderAntiAFK.gif) |

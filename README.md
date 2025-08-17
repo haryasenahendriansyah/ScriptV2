@@ -44,8 +44,8 @@ Script utama akan otomatis dimuat saat GUI siap. Tidak perlu menekan tombol apap
 📥 Cara Menggunakan
 ────────────────────────────
 1. Salin loadstring berikut ke Roblox Executor favoritmu:
-
-```lua loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV2/refs/heads/main/SenaXActualHubV2"))()
+``
+loadstring(game:HttpGet("https://raw.githubusercontent.com/haryasenahendriansyah/ScriptV2/refs/heads/main/SenaXActualHubV2"))() ``
 
 2. Jalankan script. GUI **Sena X ActualHub** akan muncul otomatis.
 3. Pilih fitur yang diinginkan di **Menu Tab** atau lihat info developer di **Developer Info Tab**.

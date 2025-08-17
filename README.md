@@ -13,7 +13,7 @@
 | 🎮 Supported Games | Mendukung Mount Daun, Mount Yagataw, dan Mount Sibuatan (dengan delay 1 menit setelah summit). | ![Supported Games GIF](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3Y5ZnppN3I3MTB6MWtjanFxZHJuMTdubTk1dHlwNWIxYTUwNXdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif) |
 | 🔄 Restart Script Utama | Tombol untuk me-restart script utama tanpa menutup game. | ![Restart Script GIF](https://cdn.pixabay.com/animation/2023/03/08/09/53/09-53-16-104_512.gif) |
 | 🛡️ Anti Fall Damage | Toggle untuk melindungi karakter dari kerusakan akibat jatuh. | ![Anti Fall Damage GIF](https://i.pinimg.com/originals/cb/84/03/cb84031baedae22d914f12f145ebceca.gif) |
-| 🕹️ Anti-AFK & Anti-Disconnect | Fitur untuk mencegah karakter dari status AFK dan disconnect otomatis. | ![Anti AFK GIF](https://i.imgur.com/placeholderAntiAFK.gif) |
+| 🕹️ Anti-AFK & Anti-Disconnect | Fitur untuk mencegah karakter dari status AFK dan disconnect otomatis. | ![Anti AFK GIF](https://media.tenor.com/FkYHKkiriQUAAAAM/afkjourney-odie.gif) |
 | ⚡ Auto Load Script | Script utama otomatis dijalankan setelah GUI siap. | ![Auto Load GIF](https://i.imgur.com/placeholderAutoLoad.gif) |
 
 ---

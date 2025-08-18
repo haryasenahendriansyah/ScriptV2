@@ -1,4 +1,4 @@
-# 🌐 Sena X ActualHub – SIMPLE FEATURES
+# 🌐 Sena X ActualHub – SIMPLE FEATURES (OFF SCRIPT)
 
 ![Sena X ActualHub Banner](https://media.tenor.com/h4PqcTyMsL4AAAAM/cover3.gif)
 > Script Roblox multifungsi, elegan, dan serba otomatis, oleh **Sena Community**.
